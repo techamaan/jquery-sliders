@@ -141,7 +141,7 @@ color: #007a99; font-size: 3.3vw; margin-left: 20%;
 }
 .cl19
 {
-	background-color: grey;
+	background-color: orange;
 	 font-family: Times New Roman;
 	  font-weight: bold;
 	  margin-left:12%; 
@@ -155,7 +155,7 @@ color: #007a99; font-size: 3.3vw; margin-left: 20%;
 }
 .cl21
 {
-	background-color: grey;
+	background-color: skyblue;
 	font-family: Times New Roman; 
 	font-weight: bold;
 	margin-left:12%;
@@ -306,6 +306,7 @@ color: #007a99; font-size: 3.3vw; margin-left: 20%;
       margin-left: 0px ;
       padding-right: 0px;
       padding-left: 0px;
+      position: relative;
       
 
     }
